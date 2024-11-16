@@ -44,6 +44,6 @@ seata需要配置注册中心将自己注册进去，还需要配置数据库连
 
 
 根据([尚硅谷2024最新SpringCloud教程，springcloud从入门到大牛](https://www.bilibili.com/video/BV1gW421P7RD/?share_source=copy_web&vd_source=2fda0b25e50e841c8126929ff3e47259))视频练习 <br>
-
+项目中用到的中间件放到阿里云盘了
 [本项目sql文件](resource/sql) <br>
 需要多个实例请自己修改端口号启动 `-Dserver.port=9002`
